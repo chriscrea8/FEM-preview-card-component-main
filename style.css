@@ -192,4 +192,12 @@ h1 span {
         /* font-family: 'Lexend Deca', sans-serif; */
         font-size: 1.8rem;
     }
+
+    .left-container {
+        width: 90%;
+        height: 100%;
+        text-align: center;
+        padding: 0px 30px ;
+        margin: 0px;
+    }
 }
